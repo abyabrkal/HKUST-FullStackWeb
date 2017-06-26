@@ -37,3 +37,7 @@ body {
 .navbar-inverse {
     background-color: #512da8;
 }
+
+.reserve {
+    border: 2px solid #f7f7f9;
+}
